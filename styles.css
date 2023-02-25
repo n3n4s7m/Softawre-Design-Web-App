@@ -61,6 +61,9 @@ button:hover {
 /* Styles for registration page only */
 body.registration-page {
 	background-color: #f5f5f5;
+	background-image: url("Registration Pic.jfif");
+	background-size: cover;
+  	background-position: center;
 }
 
 h1.registration-page {
